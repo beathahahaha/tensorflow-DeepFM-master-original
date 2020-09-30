@@ -1,6 +1,9 @@
 # tensorflow-DeepFM
 this is different from the original article(https://github.com/ChenglongChen/tensorflow-DeepFM)
-I modified config.py , and generate a new file under example folder called test_1.py (tha dataset comes from https://www.kaggle.com/c/porto-seguro-safe-driver-prediction)
+
+I modified config.py , and generate a new file under example folder called test_1.py
+
+(tha dataset comes from https://www.kaggle.com/c/porto-seguro-safe-driver-prediction)
 
 # NEWS
 - A modified version of DeepFM is used to win the 4th Place for [Mercari Price Suggestion Challenge on Kaggle](https://www.kaggle.com/c/mercari-price-suggestion-challenge). See the slide [here](https://github.com/ChenglongChen/tensorflow-XNN/blob/master/doc/Mercari_Price_Suggesion_Competition_ChenglongChen_4th_Place.pdf) how we deal with fields containing sequences, how we incoporate various FM components into deep model.
